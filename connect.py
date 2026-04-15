@@ -15,3 +15,4 @@ conexao = psycopg2.connect("dbname=postgres",
                             host="localhost",
                             port="5432")
 cursor = conexao.cursor()
+print("Conectado com sucesso")
