@@ -1,4 +1,4 @@
-# Análise de Dados com PostgreSQL + Docker + Python
+# Análise de Dados com Docker(PostgreSQL) + Dbeaver + Python
 Este projeto tem como objetivo demonstrar um fluxo completo de análise de dados utilizando:
 
 🐳 Docker
